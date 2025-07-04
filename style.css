@@ -1,0 +1,60 @@
+/* I BUILT THIS WITH GLIIITCH! */
+
+:root {
+  --glitch-logo-blue: lightblue;
+  --glitch-logo-pink: #ff7698;
+}
+
+body {
+  background-color: var(--glitch-logo-pink);
+  color: var(--glitch-logo-blue);
+  font-family: sans-serif;
+  color: blue;
+  padding: 10%;
+  padding-top: 3%;
+}
+
+.hdr,
+.subhdr {
+  margin: 20px;
+  margin-top: 5px;
+  padding-top: 5px;
+}
+
+.note {
+  background-color: #febadb;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+  color: blue;
+  transform: rotate(0deg);
+  scale: 1;
+  transition: all 0.3s ease;
+}
+
+.ending-note {
+  background-color: beige;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+  color: blue;
+  transform: rotate(0deg);
+  scale: 1;
+  transition: all 0.3s ease;
+}
+
+.note:hover,
+.ending-note:hover {
+  transform: rotate(-2deg);
+  scale: 1.1;
+  background-color: var(--glitch-logo-blue);
+  color: var(--glitch-logo-pink);
+}
+.name {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
