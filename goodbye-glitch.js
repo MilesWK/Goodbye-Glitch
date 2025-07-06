@@ -25,7 +25,6 @@ function glitchFinalFarewell() {
     console.log("");
     console.log("Goodbye, Glitch. May your error logs always be legendary.");
     console.log("Forever AYAAN, 2021-2025.");
-    process.exit(0);
 }
 
 glitchFinalFarewell();
