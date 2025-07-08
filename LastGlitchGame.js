@@ -1,0 +1,3 @@
+// Made by Zayd_Mohammed
+// The Last Glitch Game
+j=[];u=o=>{(b=$('body')).html((e='<button onclick="')+'m(0)">⟲'+e+'j[0]?u(a=j.pop()):0">⤺');a.map((r,x)=>{b.append('<br>');r.map((c,y)=>b.append(e+(c!='x'?`j.push(a.map(o=>[...o]));(q=a[x=${x}])[y=${y}]!='>'?(n=1,a.map((r,w)=>r.map((c,z)=>{if((o=w-x)*o+(o=y-z)*o==c*c)q[y]-=-c;n&=c!=0}))):(q[y]=q[y+1]|0,a[x][y+1]='>');u(n?(j=[],m(1)):0)">`+c:'">_')))})};m=o=>{n=0;u(a=l[i+=o].split`k`.map(a=>a.split``))};l=(btoa("ÓMdÒM4ÓItÇI1ÇY4LqÇqÒI4ÇMdÓtI4ÇYuLtIDÓM6M4ÓyuÓI$ÇM$ÓIDÖI4ÒQÓtÇI1ÇI1ÇI4ÓY1Ç%ÓmÄ8I1Çy$M%")+'ÜkWIN!').replace(/E/g,'>').split`l`;m(i=0)
